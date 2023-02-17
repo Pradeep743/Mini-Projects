@@ -1,0 +1,57 @@
+.container {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+}
+
+.dice {
+  text-align: center;
+  display: inline-block;
+}
+
+body {
+  background-color: #393e46;
+}
+
+h1 {
+  margin: 30px;
+  font-family: "Kalam", cursive;
+  text-shadow: 5px 0 #232931;
+  font-size: 7rem;
+  color: #4ecca3;
+}
+
+button {
+  padding: 10px 40px;
+  display: block;
+  margin: 0 auto;
+  font-size: 2rem;
+  border-radius: 5px;
+  border: none;
+  cursor: pointer;
+  background-color: #818b81;
+  transition: all 0.4s ease-in-out;
+  font-family: "Kalam", cursive;
+}
+
+p {
+  font-size: 2rem;
+  color: #4ecca3;
+  font-family: "Indie Flower", cursive;
+}
+
+img {
+  width: 80%;
+}
+
+footer {
+  margin-top: 5%;
+  color: #eeeeee;
+  text-align: center;
+  font-family: "Indie Flower", cursive;
+}
+
+button:hover {
+  background-color: rgb(36, 32, 32);
+  color: #818b81;
+}
